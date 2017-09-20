@@ -14,15 +14,15 @@
 
 
     <!--应用内换肤资源-->
-<color name="skin_item_background_red">#ff0000</color>
-<color name="skin_left_menu_item_textColor_red">#ff0000</color>
-<color name="skin_bg_red">#ff0000</color>
+    <color name="skin_item_background_red">#ff0000</color>
+    <color name="skin_left_menu_item_textColor_red">#ff0000</color>
+    <color name="skin_bg_red">#ff0000</color>
 
-<color name="skin_item_background_green">#ff00ff00</color>
-<color name="skin_left_menu_item_textColor_green">#ff00ff00</color>
-<color name="skin_bg_green">#ff00ff00</color>
+    <color name="skin_item_background_green">#ff00ff00</color>
+    <color name="skin_left_menu_item_textColor_green">#ff00ff00</color>
+    <color name="skin_bg_green">#ff00ff00</color>
 
-<color name="skin_item_background_blue">#ff00ffff</color>
-<color name="skin_left_menu_item_textColor_purple">#ff00ffff</color>
-<color name="skin_bg_purple">#ff00ffff</color>
+    <color name="skin_item_background_blue">#ff00ffff</color>
+    <color name="skin_left_menu_item_textColor_purple">#ff00ffff</color>
+    <color name="skin_bg_purple">#ff00ffff</color>
 </resources>

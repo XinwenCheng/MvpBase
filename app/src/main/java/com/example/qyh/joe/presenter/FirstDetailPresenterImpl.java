@@ -3,8 +3,8 @@ package com.example.qyh.joe.presenter;
 import android.content.Context;
 
 import com.example.qyh.joe.bean.DataDetailBean;
-import com.example.qyh.joe.model.FirstModelImpl;
 import com.example.qyh.joe.model.FirstModel;
+import com.example.qyh.joe.model.FirstModelImpl;
 import com.example.qyh.joe.view.FirstDetailView;
 
 /**

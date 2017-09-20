@@ -3,8 +3,8 @@ package com.example.qyh.joe.presenter;
 import com.example.qyh.joe.bean.DataBean;
 import com.example.qyh.joe.commons.Urls;
 import com.example.qyh.joe.fragment.FirstFragment;
-import com.example.qyh.joe.model.FirstModelImpl;
 import com.example.qyh.joe.model.FirstModel;
+import com.example.qyh.joe.model.FirstModelImpl;
 import com.example.qyh.joe.view.FirstView;
 
 import java.util.List;
